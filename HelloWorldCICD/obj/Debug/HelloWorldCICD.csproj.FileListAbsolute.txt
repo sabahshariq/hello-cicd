@@ -1,0 +1,7 @@
+C:\Users\TUF\source\repos\hello-cicd\HelloWorldCICD\bin\Debug\HelloWorldCICD.exe.config
+C:\Users\TUF\source\repos\hello-cicd\HelloWorldCICD\bin\Debug\HelloWorldCICD.exe
+C:\Users\TUF\source\repos\hello-cicd\HelloWorldCICD\bin\Debug\HelloWorldCICD.pdb
+C:\Users\TUF\source\repos\hello-cicd\HelloWorldCICD\obj\Debug\HelloWorldCICD.csproj.AssemblyReference.cache
+C:\Users\TUF\source\repos\hello-cicd\HelloWorldCICD\obj\Debug\HelloWorldCICD.csproj.CoreCompileInputs.cache
+C:\Users\TUF\source\repos\hello-cicd\HelloWorldCICD\obj\Debug\HelloWorldCICD.exe
+C:\Users\TUF\source\repos\hello-cicd\HelloWorldCICD\obj\Debug\HelloWorldCICD.pdb
