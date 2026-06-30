@@ -15,8 +15,5 @@ jobs:
       - name: Setup MSBuild
         uses: microsoft/setup-msbuild@v2
 
-      - name: Restore NuGet packages
-        run: nuget restore
-
       - name: Build project
-        run: msbuild /p:Configuration=Release
+        run: msbuild HelloCICD.csproj /p:Configuration=Release
