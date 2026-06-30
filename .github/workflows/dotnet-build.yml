@@ -16,4 +16,4 @@ jobs:
         uses: microsoft/setup-msbuild@v2
 
       - name: Build project
-        run: msbuild hello-cicd/HelloWorldCICD/HelloWorldCICD.csproj /p:Configuration=Release
+        run: msbuild hello-cicd/HelloWorldCICD.csproj /p:Configuration=Release
